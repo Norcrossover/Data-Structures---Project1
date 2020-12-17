@@ -1,0 +1,4 @@
+Drake;On September 29, 2013, Drake became the ambassador of the NBA team, Toronto Raptors.;Lil Wayne signed Drake to Young Money Entertainment in 2009. Drake has music ranging from Hip Hop to R&B and even Pop.;2
+TestArtist;TestStoryofArtist;TestDescription of the artist;3
+2pac;2pac recorded about 150 songs in his final year of life. He recorded about 3 songs per day.;Tupac has signed to many record labels including Death Row Records, Interscope, and Amaru. His music is in the genre of hip hop.;3
+Michael Jackson;Michael Jackson's home was called Neverland and was named after Peter Pan, but inside was an amusement park.;Michael Jackson was known as the King of Pop, which was also his genre of music. He was lastly signed to Sony before he passed.;3

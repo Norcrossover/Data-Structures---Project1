@@ -1,0 +1,11 @@
+Nice For What;1200;120;5.57
+Hotline Bling;1600;85;4.55
+testSong1;90;21;3.12
+testSong2;200;5;0.23
+testSong3;1000;234;5.12
+All Eyes on Me;1000;32;5.32
+Changes;3000;10;5.21
+Dear Mama;10000;100;2.32
+Thriller;1000;100;5.31
+Beat It;9000;134;3.21
+Billie Jean;1000;241;3.23

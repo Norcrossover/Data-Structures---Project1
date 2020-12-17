@@ -1,0 +1,6 @@
+Drake;On September 29, 2013, Drake became the ambassador of the NBA team, Toronto Raptors.;Lil Wayne signed Drake to Young Money Entertainment in 2009. Drake has music ranging from Hip Hop to R&B and even Pop.;2
+God's Plan;1200000000;12000000;5.57
+Hotline Bling;1600000000;8500000;4.55
+TestArtist;TestStoryofArtist;TestDescription of the artist;4
+blah blah blah;9320485;2113;3.12
+testSong2;2342;5;0.23
