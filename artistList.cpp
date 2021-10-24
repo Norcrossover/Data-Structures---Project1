@@ -304,6 +304,25 @@ bool ArtistList::removeSongsCall()
 
 
 
+void ArtistList::reverseArtistList() 
+{
+	if (head) 
+	{
+		Node * prev = nullptr;
+		Node * next = nullptr;
+		Node * curr = head;
+		while (curr != nullptr) 
+		{
+			next = curr->next;
+			curr->next = prev;
+			prev = curr;
+			curr = next;
+		}
+	}
+}
+
+
+
 //====================================================================================================
 //				Accessor Functions
 //====================================================================================================
@@ -412,7 +431,10 @@ int ArtistList::mainFunction(int userChoice)
                 case 6: addArtist();
 			return 0;
                         break;
-                // case 7 and the default are to quit the program. if for some reason any error were to occur, the program would just quit
+		case 7: reverseArtistList();
+			return 0;
+			break;
+		case 8:
 			return userChoice;
 			break;
         }
@@ -433,7 +455,8 @@ void ArtistList::printOptions()
              << "4. Remove all unpopular songs."  		<< endl
              << "5. Edit a song for an artist."                 << endl
              << "6. Add a new artist to the record label."      << endl
-             << "7. Quit the program"                           << endl;
+	     << "7. Reverse Artist List." 			<< endl
+             << "8. Quit the program"                           << endl;
 	cout << "============================================"  << endl << endl;
 }
 

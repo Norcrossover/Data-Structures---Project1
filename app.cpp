@@ -26,7 +26,7 @@ int main()
 	ArtistList artistList;
 	//artistList.artistListInit("artists.txt");
 	int userChoice = 0;
-	while (userChoice != 7)
+	while (userChoice != 8)
 	{
 		artistList.printOptions();
 		cout << "Enter option (number) -> ";

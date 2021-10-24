@@ -42,6 +42,7 @@ public:
 		// Invokes the editSong function within the song list after an artist is chosen by the user
 	bool removeSongsCall();				
 		// Takes in an integer that will then be the required amount of views a song must have to not get deleted. Traverses through all of the lists and checks each song
+	void reverseArtistList();
 
 	// Accesor functions
 	bool printSongsCall();						
